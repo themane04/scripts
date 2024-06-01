@@ -1,0 +1,86 @@
+.idea
+
+*.csv
+*.txt
+user_data.csv
+user_data.txt
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+*.vscode/
+*.vs/
+*.nupkg
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Ignore NuGet Packages
+**/[Pp]ackages/
+*.nupkg
+
+# Exceptions to the rule
+!**/[Pp]ackages/build/
+!**/[Pp]ackages/repositories.config
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Visual Studio 2022
+.Analysis/
+
+# JetBrains Rider
+.idea/
+
+# User-specific files (Visual Studio Code)
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.dontpester
