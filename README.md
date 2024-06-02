@@ -53,7 +53,8 @@ git clone https://github.com/themane04/scripts.git
 ```
 
 2. Run the Scripts
-After cloning the repository, you will need to run the scripts using PowerShell or a Bash CLI. Make sure to open either PowerShell or Bash as an administrator and then navigate to the directory containing the scripts.
+
+  After cloning the repository, you will need to run the scripts using PowerShell or a Bash CLI. Make sure to open either PowerShell or Bash as an administrator and then navigate to the directory containing the scripts.
 
 - For PowerShell
 ```bash
