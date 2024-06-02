@@ -40,6 +40,13 @@ Here is the video from the Bash script that Leonid created
 
 ### Set Up ###
 
+If you want to run the C# App do the following:
+```bash
+# Navigate to the User Manager C# Folder
+cd path\to\folder
+```
+And just simply run the UserManager.exe app and try it out.
+
 Follow these steps to run the scripts in the repository:
 
 1. First, clone the repository to your local machine using either SSH or HTTPS method:
