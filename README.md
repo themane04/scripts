@@ -14,11 +14,11 @@ This repository contains a high-quality user management system developed by a te
 - **PowerShell Script:** Empowers advanced user management on Windows with powerful scripting capabilities.
 - **C# Application:** Combines depth and usability, offering a comprehensive interface for managing users effectively on Windows.
 
-### Flow Diagramm PowerShell ###
-![PowerShell Flow Diagramm](02_Marjan/LB1_122_PS.drawio.png)
+### Flow Diagram PowerShell ###
+![PowerShell Flow Diagram](02_Marjan/LB1_122_PS.drawio.png)
 
-### Flow Diagramm Bash ###
-![Bash Flow Diagramm](01_Leonid/LB1_122_BS.drawio.png)
+### Flow Diagram Bash ###
+![Bash Flow Diagram](01_Leonid/LB1_122_BS.drawio.png)
 
 ## Program Application ##
 
