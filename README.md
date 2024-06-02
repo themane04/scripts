@@ -37,3 +37,41 @@ Here is the video from the PowerShell script and the C# App that I created
 
 Here is the video from the Bash script that Leonid created
 - [Click here to view the video](02_Marjan/LB1_UserManager_PowerShell.mp4)
+
+### Set Up ###
+
+Follow these steps to run the scripts in the repository:
+
+1. First, clone the repository to your local machine using either SSH or HTTPS method:
+
+```bash
+# Clone with SSH
+git clone git@github.com:themane04/scripts.git
+
+# Clone with HTTPS
+git clone https://github.com/themane04/scripts.git
+```
+
+2. Run the Scripts
+After cloning the repository, you will need to run the scripts using PowerShell or a Bash CLI. Make sure to open either PowerShell or Bash as an administrator and then navigate to the directory containing the scripts.
+
+- For PowerShell
+```bash
+# Navigate to the script directory
+cd path\to\scripts
+
+# Execute the PowerShell script
+.\UserManager.ps1
+```
+
+- For Bash
+```bash
+# Navigate to the script directory
+cd /path/to/scripts
+
+# Make the script executable (if not already)
+chmod +x user_manager.sh
+
+# Execute the Bash script
+./user_manager.sh
+```
