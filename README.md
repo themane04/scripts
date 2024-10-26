@@ -1,4 +1,4 @@
-## Collaborative User Management System: Award-Winning Project
+# Collaborative User Management System
 
 This repository contains a high-quality user management system developed by a team of dedicated students, which achieved the best grade in our school class. The project includes a suite of tools and comprehensive documentation, crafted through collaboration across multiple platforms:
 
